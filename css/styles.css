@@ -1,0 +1,146 @@
+.logo {
+    width: 120px; 
+}
+
+.nav {
+    align-items: center;
+    background-color: #3b0050;
+}
+
+.nav li a {
+    color: white;    
+}
+
+section {
+    background-color: #fde06b;
+    margin: 20px;
+    padding: 50px;
+    text-align: justify;
+    border-radius: 10px;
+}
+
+h4 {
+    text-align: center;
+    text-decoration: underline;
+    padding-bottom: 20px;
+}
+
+#background {    
+    background-image: url("https://cdn.pixabay.com/photo/2017/09/03/01/20/acai-2709077_1280.jpg");
+    background-size: 3000px;
+    opacity: 60%;
+}
+
+.col {
+    padding: 100px;
+    border: solid white;
+    border-radius: 20px;
+}
+
+.col a {
+    text-decoration: none;
+    color: black;      
+}
+
+#modulos {
+    width: 50%;
+    font-size: 20px;
+    font-weight: bold;
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto;    
+}
+
+#fig {
+    text-align: center;
+    font-weight: bold;
+}
+
+#novidade {
+    width: 200px;
+    height: 200px;
+}
+
+footer {
+    text-align: center;
+    background-color: #3b0050;
+    color: white;
+    font-size: 12px;
+}
+
+iframe {
+    width: 300px;
+    height: 300px;   
+}
+
+.mapa {
+    text-align: center;
+}
+
+.tabela {
+    margin: 20px auto;
+    background-color: #fde06b;
+    border-radius: 20px;
+    overflow: hidden;
+}
+
+.tabela th {
+    padding-bottom: 20px;
+    padding-top: 20px;
+}
+
+.tabela td {
+    padding: 10px 20px;   
+}
+
+#theader {
+    text-align: center;
+    background-color: #3b0050;
+    color: white;
+}
+
+#theader2 {
+    text-align: center;
+    background-color: #74009d;
+    color: white;
+}
+
+.formulario {
+    padding-left: 400px;
+    padding-right: 400px;
+    font-weight: bold;    
+}
+
+.redes {
+    text-align: center;
+}
+
+#imginstagram, #imgfacebook {
+    width: 40px;
+}
+
+.bt-whatsApp {
+    right:25px;
+    position:fixed;
+    width:60px;
+    height:60px;
+    bottom:40px;
+    z-index:100;
+}
+
+#msg1 {
+    right: 90px;
+    visibility: visible;
+    background: #1EBC59;
+    color: #fff;
+    position: fixed;
+    width: 200px;
+    bottom: 52px;
+    text-align: center;
+    font-size: 13px;
+    line-height: 31px;
+    height: 32px;
+    border-radius: 100px;
+    z-index: 100;
+}
+
